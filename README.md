@@ -2,7 +2,7 @@
 
 ## GPI - INCADE 2025
 
-Este repositorio contiene los trabajos prácticos de la asignatura **Programación Orientada a Objetos**, correspondiente al segundo año de la carrera **Gestión y Producción de Información (GPI)** en **INCADE**, año 2025.
+Este repositorio contiene los trabajos prácticos de la asignatura **Programación Orientada a Objetos**, correspondiente al segundo año de la carrera **GPI** en **INCADE**, año 2025.
 
 ---
 

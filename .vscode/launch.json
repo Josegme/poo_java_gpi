@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RegistroCamiones",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.RegistroCamiones",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "ProductosCostos",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.ProductosCostos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "EstadoNotas",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.EstadoNotas",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "NotasAlumno",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.NotasAlumno",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        }
+    ]
+}

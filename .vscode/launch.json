@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Operaciones",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Operaciones",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "ParametrosArgumentos",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.ParametrosArgumentos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "CrearMetodos",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.CrearMetodos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "CrearObjetos",
+            "request": "launch",
+            "mainClass": "Ejercicios.CrearClases.CrearObjetos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
             "name": "RegistroCamiones",
             "request": "launch",
             "mainClass": "TP_1_POO_GPI.RegistroCamiones",

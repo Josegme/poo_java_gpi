@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Graficos",
+            "request": "launch",
+            "mainClass": "Ejercicios.Calculadora.Graficos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Dialogos",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Dialogos",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "AccesoDirecto",
+            "request": "launch",
+            "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.AccesoDirecto",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Clase1",
+            "request": "launch",
+            "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.Clase1",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Constructor",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
             "name": "Operaciones",
             "request": "launch",
             "mainClass": "Ejercicios.ConceptosClave.Operaciones",

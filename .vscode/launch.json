@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Grafico",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.Factura_Internet.Grafico",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "EdadGenero",
+            "request": "launch",
+            "mainClass": "Ejercicios.EdadGenero",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Ejercicios.Encapsulamiento.Switch",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Grafico",
+            "request": "launch",
+            "mainClass": "Ejercicios.Encapsulamiento.Grafico",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
             "name": "Graficos",
             "request": "launch",
             "mainClass": "Ejercicios.Calculadora.Graficos",

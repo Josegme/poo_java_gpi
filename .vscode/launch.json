@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Usuario",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Persona",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Persona",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
             "name": "Grafico",
             "request": "launch",
             "mainClass": "TP_1_POO_GPI.Factura_Internet.Grafico",

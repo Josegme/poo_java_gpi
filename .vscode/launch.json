@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.Sanatorio.Main",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "CensoProvincial",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.Censo.CensoProvincial",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "CarreraAutomovilistica",
+            "request": "launch",
+            "mainClass": "TP_1_POO_GPI.carrera_autos.CarreraAutomovilistica",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
+            "name": "Auto",
+            "request": "launch",
+            "mainClass": "Ejercicios.ConceptosClave.Auto",
+            "projectName": "practico_poo_gpi_b4bb2403"
+        },
+        {
+            "type": "java",
             "name": "Usuario",
             "request": "launch",
             "mainClass": "Ejercicios.ConceptosClave.Usuario",

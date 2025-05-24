@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebaFiguras",
+            "request": "launch",
+            "mainClass": "Ejercicios.DibujarFiguras.PruebaFiguras",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "Figuras",
+            "request": "launch",
+            "mainClass": "Ejercicios.DibujarFiguras.Figuras",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Ejercicios.BreakContinue.Continue",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Ejercicios.Break.Break",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresInc",
+            "request": "launch",
+            "mainClass": "Ejercicios.OpIncremento.OperadoresInc",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploFor",
+            "request": "launch",
+            "mainClass": "Ejercicios.For.EjemploFor",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "EjmploDoWhile",
+            "request": "launch",
+            "mainClass": "Ejercicios.DoWhile.EjmploDoWhile",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "EjemploWhile",
+            "request": "launch",
+            "mainClass": "Ejercicios.WhileEjercicios.EjemploWhile",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
+            "name": "Graficos",
+            "request": "launch",
+            "mainClass": "Ejercicios.Calculadora.Graficos",
+            "projectName": "practico_poo_gpi_93cce14a"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "TP_1_POO_GPI.Sanatorio.Main",

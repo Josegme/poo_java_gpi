@@ -1,232 +1,288 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "PruebaFiguras",
-            "request": "launch",
-            "mainClass": "Ejercicios.DibujarFiguras.PruebaFiguras",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "Figuras",
-            "request": "launch",
-            "mainClass": "Ejercicios.DibujarFiguras.Figuras",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "Continue",
-            "request": "launch",
-            "mainClass": "Ejercicios.BreakContinue.Continue",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "Break",
-            "request": "launch",
-            "mainClass": "Ejercicios.Break.Break",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "OperadoresInc",
-            "request": "launch",
-            "mainClass": "Ejercicios.OpIncremento.OperadoresInc",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "EjemploFor",
-            "request": "launch",
-            "mainClass": "Ejercicios.For.EjemploFor",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "EjmploDoWhile",
-            "request": "launch",
-            "mainClass": "Ejercicios.DoWhile.EjmploDoWhile",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "EjemploWhile",
-            "request": "launch",
-            "mainClass": "Ejercicios.WhileEjercicios.EjemploWhile",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "Graficos",
-            "request": "launch",
-            "mainClass": "Ejercicios.Calculadora.Graficos",
-            "projectName": "practico_poo_gpi_93cce14a"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.Sanatorio.Main",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "CensoProvincial",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.Censo.CensoProvincial",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "CarreraAutomovilistica",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.carrera_autos.CarreraAutomovilistica",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Auto",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Auto",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Usuario",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Usuario",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Persona",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Persona",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Grafico",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.Factura_Internet.Grafico",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "EdadGenero",
-            "request": "launch",
-            "mainClass": "Ejercicios.EdadGenero",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Switch",
-            "request": "launch",
-            "mainClass": "Ejercicios.Encapsulamiento.Switch",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Grafico",
-            "request": "launch",
-            "mainClass": "Ejercicios.Encapsulamiento.Grafico",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Graficos",
-            "request": "launch",
-            "mainClass": "Ejercicios.Calculadora.Graficos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Dialogos",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Dialogos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "AccesoDirecto",
-            "request": "launch",
-            "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.AccesoDirecto",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Clase1",
-            "request": "launch",
-            "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.Clase1",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Constructor",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Constructor",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "Operaciones",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.Operaciones",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "ParametrosArgumentos",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.ParametrosArgumentos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "CrearMetodos",
-            "request": "launch",
-            "mainClass": "Ejercicios.ConceptosClave.CrearMetodos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "CrearObjetos",
-            "request": "launch",
-            "mainClass": "Ejercicios.CrearClases.CrearObjetos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "RegistroCamiones",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.RegistroCamiones",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "ProductosCostos",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.ProductosCostos",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "EstadoNotas",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.EstadoNotas",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        },
-        {
-            "type": "java",
-            "name": "NotasAlumno",
-            "request": "launch",
-            "mainClass": "TP_1_POO_GPI.NotasAlumno",
-            "projectName": "practico_poo_gpi_b4bb2403"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ConversionCadenasNumeros",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConversionTipos.ConversionCadenasNumeros",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "ConversionPrimitivos",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConversionTipos.ConversionPrimitivos",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "PruebaDibujarArc",
+      "request": "launch",
+      "mainClass": "Ejercicios.DibujoArcoiris.PruebaDibujarArc",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Excepciones",
+      "request": "launch",
+      "mainClass": "Ejercicios.Excepciones.Excepciones",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Colecciones",
+      "request": "launch",
+      "mainClass": "Ejercicios.Colecciones.Colecciones",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Foreach",
+      "request": "launch",
+      "mainClass": "Ejercicios.ForEach.Foreach",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Arreglos",
+      "request": "launch",
+      "mainClass": "Ejercicios.Arreglos.Arreglos",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.CalculadoraIMC.Main",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "PruebaFiguras",
+      "request": "launch",
+      "mainClass": "Ejercicios.DibujarFiguras.PruebaFiguras",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Figuras",
+      "request": "launch",
+      "mainClass": "Ejercicios.DibujarFiguras.Figuras",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Continue",
+      "request": "launch",
+      "mainClass": "Ejercicios.BreakContinue.Continue",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Break",
+      "request": "launch",
+      "mainClass": "Ejercicios.Break.Break",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "OperadoresInc",
+      "request": "launch",
+      "mainClass": "Ejercicios.OpIncremento.OperadoresInc",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "EjemploFor",
+      "request": "launch",
+      "mainClass": "Ejercicios.For.EjemploFor",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "EjmploDoWhile",
+      "request": "launch",
+      "mainClass": "Ejercicios.DoWhile.EjmploDoWhile",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "EjemploWhile",
+      "request": "launch",
+      "mainClass": "Ejercicios.WhileEjercicios.EjemploWhile",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Graficos",
+      "request": "launch",
+      "mainClass": "Ejercicios.Calculadora.Graficos",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.Sanatorio.Main",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "CensoProvincial",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.Censo.CensoProvincial",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "CarreraAutomovilistica",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.carrera_autos.CarreraAutomovilistica",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Auto",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Auto",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Usuario",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Persona",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Persona",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Grafico",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.Factura_Internet.Grafico",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "EdadGenero",
+      "request": "launch",
+      "mainClass": "Ejercicios.EdadGenero",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Ejercicios.Encapsulamiento.Switch",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Grafico",
+      "request": "launch",
+      "mainClass": "Ejercicios.Encapsulamiento.Grafico",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Graficos",
+      "request": "launch",
+      "mainClass": "Ejercicios.Calculadora.Graficos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Dialogos",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Dialogos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "AccesoDirecto",
+      "request": "launch",
+      "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.AccesoDirecto",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Clase1",
+      "request": "launch",
+      "mainClass": "Ejercicios.Modificadores_Acceso.paquete1.Clase1",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Constructor",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Constructor",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "Operaciones",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.Operaciones",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "ParametrosArgumentos",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.ParametrosArgumentos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "CrearMetodos",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConceptosClave.CrearMetodos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "CrearObjetos",
+      "request": "launch",
+      "mainClass": "Ejercicios.CrearClases.CrearObjetos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "RegistroCamiones",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.RegistroCamiones",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "ProductosCostos",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.ProductosCostos",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "EstadoNotas",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.EstadoNotas",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    },
+    {
+      "type": "java",
+      "name": "NotasAlumno",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.NotasAlumno",
+      "projectName": "practico_poo_gpi_b4bb2403"
+    }
+  ]
 }

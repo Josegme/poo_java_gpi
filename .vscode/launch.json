@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "TP_1_POO_GPI.IMCalculadora.src.Main",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "MiFrame",
+      "request": "launch",
+      "mainClass": "Ejercicios.Herencia.MiFrame",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
       "name": "ConversionCadenasNumeros",
       "request": "launch",
       "mainClass": "Ejercicios.ConversionTipos.ConversionCadenasNumeros",

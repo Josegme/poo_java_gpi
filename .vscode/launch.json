@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AdminV",
+      "request": "launch",
+      "mainClass": "PlantasVsZombies.AdminV",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Husky",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConversiónObjetos.Husky",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Sobreescritura",
+      "request": "launch",
+      "mainClass": "Ejercicios.Sobreescritura.Sobreescritura",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Perro",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConversiónObjetos.Perro",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
+      "name": "Gato",
+      "request": "launch",
+      "mainClass": "Ejercicios.ConversiónObjetos.Gato",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Main",

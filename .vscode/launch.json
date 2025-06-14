@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PruebaSistemaNomina",
+      "request": "launch",
+      "mainClass": "SistemaNominas.PruebaSistemaNomina",
+      "projectName": "practico_poo_gpi_93cce14a"
+    },
+    {
+      "type": "java",
       "name": "AdminV",
       "request": "launch",
       "mainClass": "PlantasVsZombies.AdminV",

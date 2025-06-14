@@ -1,4 +1,5 @@
-package CalculoNominas;
+package SistemaNominas;
+
 /*Superclase Abstracta la cual va a actuar como Interfaz y 
  * contener los Atributos generales de los Empleados. Ademas de 
  * El constructor de dichos atributos. Ademas los Getters y Setter 
@@ -56,8 +57,8 @@ public abstract class Empleado {
     // Devuelve representación String de un objeto Empledo
     @Override
     public String toString() {
-        return String.format("\nNumero de Seguro Social: ", getPrimerNombre(), getApellidoPaterno(),
-                getNumeroSeguroSocial());
+        return String.format("Empleado: %s %s \nNumero de Seguro Social: %s",
+                getPrimerNombre(), getApellidoPaterno(), getNumeroSeguroSocial());
 
     }
 

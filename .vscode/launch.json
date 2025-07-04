@@ -9,6 +9,13 @@
       "name": "PruebaSistemaNomina",
       "request": "launch",
       "mainClass": "SistemaNominas.PruebaSistemaNomina",
+      "projectName": "practico_poo_gpi_7f2c642e"
+    },
+    {
+      "type": "java",
+      "name": "PruebaSistemaNomina",
+      "request": "launch",
+      "mainClass": "SistemaNominas.PruebaSistemaNomina",
       "projectName": "practico_poo_gpi_93cce14a"
     },
     {

@@ -46,7 +46,8 @@ public class EmpleadoPorComision extends Empleado {
 
     @Override
     public String toString() {
-        return String.format("%s: %s\n%s: %s, .2f; %s: %.2f ", super.toString(), "Ventas Brutas: ",
-                obtenerVentasBrutas(), "Tarifa por Comision: ", obtenerTarifaComision());
+        return String.format("%s\nVentas Brutas: $%,.2f\nTarifa por Comision: %.2f",
+                super.toString(), obtenerVentasBrutas(), obtenerTarifaComision());
     }
+
 }

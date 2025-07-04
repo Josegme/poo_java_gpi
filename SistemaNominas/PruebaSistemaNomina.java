@@ -22,10 +22,10 @@ public class PruebaSistemaNomina {
 
         System.out.println("Empleado procesado por separado: ");
 
-        System.out.printf("%s\n%s: $%, .2f\n\n", empleadoAsalariado, "Ingresos: ", empleadoAsalariado.ingresos());
-        System.out.printf("%s\n%s: $%, .2f\n\n", empleadoPorHoras, "Ingresos: ", empleadoPorHoras.ingresos());
-        System.out.printf("%s\n%s: $%, .2f\n\n", empleadoComision, "Ingresos: ", empleadoComision.ingresos());
-        System.out.printf("%s\n%s: $%, .2f\n\n", empleadoBaseMasComision, "Ingresos: ",
+        System.out.printf("%s\n%s: $%,.2f\n\n", empleadoAsalariado, "Ingresos: ", empleadoAsalariado.ingresos());
+        System.out.printf("%s\n%s: $%,.2f\n\n", empleadoPorHoras, "Ingresos: ", empleadoPorHoras.ingresos());
+        System.out.printf("%s\n%s: $%,.2f\n\n", empleadoComision, "Ingresos: ", empleadoComision.ingresos());
+        System.out.printf("%s\n%s: $%,.2f\n\n", empleadoBaseMasComision, "Ingresos: ",
                 empleadoBaseMasComision.ingresos());
 
     }

@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DivisionConExcepcion",
+      "request": "launch",
+      "mainClass": "ManejoExcepciones.DivisionConExcepcion",
+      "projectName": "practico_poo_gpi_7f2c642e"
+    },
+    {
+      "type": "java",
+      "name": "DivisionEntreCero",
+      "request": "launch",
+      "mainClass": "ManejoExcepciones.DivisionEntreCero",
+      "projectName": "practico_poo_gpi_7f2c642e"
+    },
+    {
+      "type": "java",
       "name": "PruebaSistemaNomina",
       "request": "launch",
       "mainClass": "SistemaNominas.PruebaSistemaNomina",
